@@ -1,0 +1,14 @@
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\bin\Debug\net7.0\PBO_Tugas 4.exe
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\bin\Debug\net7.0\PBO_Tugas 4.deps.json
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\bin\Debug\net7.0\PBO_Tugas 4.runtimeconfig.json
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\bin\Debug\net7.0\PBO_Tugas 4.dll
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\bin\Debug\net7.0\PBO_Tugas 4.pdb
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.AssemblyInfoInputs.cache
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.AssemblyInfo.cs
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.csproj.CoreCompileInputs.cache
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.dll
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\refint\PBO_Tugas 4.dll
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.pdb
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\PBO_Tugas 4.genruntimeconfig.cache
+D:\Pemograman\C#\OOD\TM 5 - Encapsulation\Tugas_PBO4\PBO_Tugas 4\obj\Debug\net7.0\ref\PBO_Tugas 4.dll
